@@ -46,11 +46,11 @@ print(honk.__doc__)
 honk.logInfo( "external Honk Honk" )
 honk.egAction()
 
-print('''
-    generated the following log records:
-    
-    [ 2022-07-29 23:56:55,967 ][ INFO ] external Honk Honk
-    [ 2022-07-29 23:56:55,967 ][ INFO ] 1: HONK!
-    [ 2022-07-29 23:56:55,968 ][ INFO ] 1: HONK! 2:HONK!
-    
-    ''')
+##
+##  generated the following log records:
+##  
+##  [ 2022-07-29 23:56:55,967 ][ INFO ] external Honk Honk
+##  [ 2022-07-29 23:56:55,967 ][ INFO ] 1: HONK!
+##  [ 2022-07-29 23:56:55,968 ][ INFO ] 1: HONK! 2:HONK!
+##  
+##  
